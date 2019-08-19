@@ -1,0 +1,13 @@
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.1\win10-x64\CoreApp.exe
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.1\win10-x64\CoreApp.deps.json
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.1\win10-x64\CoreApp.runtimeconfig.json
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.1\win10-x64\CoreApp.runtimeconfig.dev.json
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.1\win10-x64\CoreApp.dll
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Debug\netcoreapp2.1\win10-x64\CoreApp.pdb
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.1\win10-x64\CoreApp.csprojAssemblyReference.cache
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.1\win10-x64\CoreApp.AssemblyInfoInputs.cache
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.1\win10-x64\CoreApp.AssemblyInfo.cs
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.1\win10-x64\CoreApp.dll
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Debug\netcoreapp2.1\win10-x64\CoreApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Release\netcoreapp2.1\CoreApp.deps.json
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Release\netcoreapp2.1\CoreApp.runtimeconfig.json
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Release\netcoreapp2.1\CoreApp.runtimeconfig.dev.json
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Release\netcoreapp2.1\CoreApp.dll
+C:\Users\md\source\repos\CoreApp\CoreApp\bin\Release\netcoreapp2.1\CoreApp.pdb
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Release\netcoreapp2.1\CoreApp.csprojAssemblyReference.cache
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Release\netcoreapp2.1\CoreApp.csproj.CoreCompileInputs.cache
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Release\netcoreapp2.1\CoreApp.AssemblyInfoInputs.cache
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Release\netcoreapp2.1\CoreApp.AssemblyInfo.cs
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Release\netcoreapp2.1\CoreApp.dll
+C:\Users\md\source\repos\CoreApp\CoreApp\obj\Release\netcoreapp2.1\CoreApp.pdb

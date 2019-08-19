@@ -1,0 +1,11 @@
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\bin\Debug\FrameworkApp.exe.config
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\bin\Debug\FrameworkApp.exe
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\bin\Debug\FrameworkApp.pdb
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\bin\Debug\FrameworkApp.xml
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.vbprojAssemblyReference.cache
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.Resources.resources
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.vbproj.GenerateResource.cache
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.vbproj.CoreCompileInputs.cache
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.exe
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.xml
+C:\Users\md\source\repos\FrameworkApp\FrameworkApp\obj\Debug\FrameworkApp.pdb
